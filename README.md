@@ -11,3 +11,4 @@ QA Studio Shop_Оформление заказа: Тест-кейс, Баг-ре
 Собаседник_Ссылка в хедере страницы: Тест-кейс, Баг-репорт <a href="https://docs.google.com/document/d/1ufRjqG_xYgzfXRhv9W2e4rd3Mk0bWqHd/edit?usp=sharing&ouid=100527676212999202753&rtpof=true&sd=true" target="_blank">Google Docs Link</a>
 
 Служба поддержки WhatsApp Messenger_Отправка сообщения: Тест-кейс, Баг-репорт <a href="https://docs.google.com/document/d/1B6ToiXyBLdQk4gCQYCpJ299Qy3p2HlTk/edit?usp=sharing&ouid=100527676212999202753&rtpof=true&sd=true" target="_blank">Google Docs Link</a>
+
